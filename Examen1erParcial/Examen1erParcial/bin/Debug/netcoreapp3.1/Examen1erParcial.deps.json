@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Examen1erParcial/1.0.0": {
+        "runtime": {
+          "Examen1erParcial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Examen1erParcial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
